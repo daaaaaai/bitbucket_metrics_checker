@@ -1,8 +1,9 @@
 # Name
-bitbucket_activity_check
+bitbucket_metrics_checker
 
 # About
-Bitbucketの指定したスペースに対して、ユーザごとのプルリクエスト一覧をCSVに出力します
+Bitbucketの指定したワークスペースに対して、ユーザごとのプルリクエスト一覧をCSVに出力します。
+BitbucketのAPIの認証はすこしわかりにくいのでほかのデータをとりたいときに取り組みやすくするためのひな型です。
 
 # Installation
 
